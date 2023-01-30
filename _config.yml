@@ -1,5 +1,5 @@
 markdown: kramdown
-theme: hitchens-theme
+remote_theme: hitchens-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Gwinnett Robotic Surgery
