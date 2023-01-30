@@ -1,3 +1,6 @@
 title: Gwinnett Robotic Surgery
 description: The Homepage for the Gwinnett Robotic Surgery site
 theme: minima
+header_pages:
+  - about.md
+  - portfolio.md
